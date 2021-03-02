@@ -1,0 +1,7 @@
+<suite name="Suite" parallel="methods">
+  <test name="Test">
+    <classes>
+      <class name="TestNG.ParallelMethods"/>
+    </classes>
+  </test> 
+</suite> 
